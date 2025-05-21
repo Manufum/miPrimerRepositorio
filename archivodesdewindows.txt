@@ -1,0 +1,1 @@
+Esto es una prueba de crear un archivo desde la interfaz grafica de windows
